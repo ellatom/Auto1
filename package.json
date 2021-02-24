@@ -1,0 +1,29 @@
+{
+  "name": "covidautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha --timeout 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.0",
+    "d3": "^6.5.0",
+    "d3-collection": "^1.0.7",
+    "d3-node": "^2.2.2",
+    "glob": "^7.1.6",
+    "mocha": "^8.3.0",
+    "node-pandas": "^1.0.5",
+    "selenium-webdriver": "^4.0.0-beta.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mochawesome": "^6.2.2"
+  },
+  "description": ""
+}

@@ -2,6 +2,7 @@
 * Tests were developed with "Mocha" JavaScript test framework.
 * GUI tests using "Selenium" framework.
 * API tests using "D3" JavaScript library for manipulating data recieved from api.
+* API requests using 'Axios' library
 * Tests are run in terminal with command "npm test".
 * Tests compare gui values to api values.
 

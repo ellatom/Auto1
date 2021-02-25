@@ -8,4 +8,3 @@
 <li>Tests compare gui values to api values.
 
 <li> Link to Sanity tests(only 2 tests were added to automation):
-https://docs.google.com/spreadsheets/d/1QTjhLdsR6-ZE7a5UKMFlh2p8O5YEp5ElFg1qnwnYRng/edit?usp=sharing

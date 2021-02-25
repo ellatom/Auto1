@@ -4,7 +4,7 @@
 <li>GUI tests using "Selenium" framework.
 <li>API tests using "D3" JavaScript library for manipulating data recieved from api.
 <li>API requests using 'Axios' library
-<li>Tests are run in terminal with command "npm test".
+<li>Automation Tests are run in terminal with command "npm test".
 <li>Tests compare gui values to api values.
 
 <li> Link to Sanity tests(only 2 tests were added to automation):

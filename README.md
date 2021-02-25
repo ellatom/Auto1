@@ -7,4 +7,4 @@
 * Tests compare gui values to api values.
 
 Link to Sanity tests(only 2 tests were added to automation):
-https://docs.google.com/spreadsheets/d/1QTjhLdsR6-ZE7a5UKMFlh2p8O5YEp5ElFg1qnwnYRng/edit#gid=2131724267
+https://docs.google.com/spreadsheets/d/1QTjhLdsR6-ZE7a5UKMFlh2p8O5YEp5ElFg1qnwnYRng/edit?usp=sharing

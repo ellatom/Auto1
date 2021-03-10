@@ -1,4 +1,4 @@
-# Covid-Automation
+# Auto
 <ul>
 <li>Tests were developed with "Mocha" JavaScript test framework.
 <li>GUI tests using "Selenium" framework.

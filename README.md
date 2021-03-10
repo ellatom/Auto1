@@ -1,4 +1,4 @@
-# Auto
+# Auto1
 <ul>
 <li>Tests were developed with "Mocha" JavaScript test framework.
 <li>GUI tests using "Selenium" framework.
